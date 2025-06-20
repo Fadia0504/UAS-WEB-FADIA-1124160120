@@ -144,7 +144,7 @@ List fitur yang ditambahkan untuk meningkatkan interaktifitas:
 
 ### Fitur Utama
 
-1. **Pemilihan Produk AI**:
+1. **Pemilihan Produk **:
 
    - Netflix - Rp 40.000
    - HBO MAX - Rp 30.000
