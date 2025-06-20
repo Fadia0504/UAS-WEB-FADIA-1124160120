@@ -144,7 +144,7 @@ List fitur yang ditambahkan untuk meningkatkan interaktifitas:
 
 ### Fitur Utama
 
-1. **Pemilihan Produk **:
+1. **Pemilihan Produk**:
 
    - Netflix 
    - HBO MAX 
