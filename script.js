@@ -76,7 +76,6 @@ class DarkModeManager {
 const promoCodes = {
         'PROMAX': { discount: 10, type: 'percentage', description: 'Selamat anda mendapatkan sebesar Diskon 10%'},
         'MANTAP': { discount: 20000, type: 'fixed', description: 'Selamat anda mendapatkan sebesar Potongan 20.000'},
-        'PELAJARINDO': { discount: 20, type: 'percentage', description: 'Selamat anda mendapatkan sebesar Diskon 20%'},
 };
 // Mapping metode pembayaran dengan warna
         const paymentMethodColors = {
