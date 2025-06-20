@@ -167,7 +167,6 @@ List fitur yang ditambahkan untuk meningkatkan interaktifitas:
 4. **Sistem Kode Promo**:
    - `PROMAX` - Diskon 10%
    - `MANTAP` - Potongan Rp 20.000
-   - `PELAJARINDO` - Diskon 20% untuk pelajar
 
 ### Cara Penggunaan
 
