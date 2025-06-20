@@ -146,10 +146,10 @@ List fitur yang ditambahkan untuk meningkatkan interaktifitas:
 
 1. **Pemilihan Produk **:
 
-   - Netflix - Rp 40.000
-   - HBO MAX - Rp 30.000
-   - WeTV - Rp 25.000
-   - Amazon Prime - Rp 35.000
+   - Netflix 
+   - HBO MAX 
+   - WeTV 
+   - Amazon Prime 
 
 2. **Durasi Langganan**:
 
