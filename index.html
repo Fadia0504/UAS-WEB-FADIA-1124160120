@@ -6,6 +6,8 @@
     <title>Padpad - Langganan APK PREM</title>
     <link rel="stylesheet" href="/dist/style.css" />
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <style>
       .swal-popup-fix {
         z-index: 9999 !important;
@@ -199,15 +201,18 @@
           >
             Payment Portal Padpad
           </h1>
-          <button
-            id="darkModeToggle"
-            class="text-sm sm:text-base px-3 py-1.5 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white rounded-md flex items-center gap-2 transition-all duration-300 hover:scale-105"
-          >
-            <span class="dark:hidden">🌙</span>
-            <span class="hidden dark:block">☀️</span>
-            <span class="dark:hidden">Dark Mode</span>
-            <span class="hidden dark:block">Light Mode</span>
-          </button>
+          <div class="flex justify-end mb-4">
+            <button 
+            id="toggleDarkMode"
+            class="px-5 py-2.5 rounded-xl font-medium transition-all duration-300 ease-in-out 
+                bg-red-600 text-white 
+                hover:bg-red-700 
+                dark:bg-yellow-400 dark:text-gray-900 
+                dark:hover:bg-yellow-300 
+                shadow-md dark:shadow-lg focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 dark:focus:ring-yellow-500">
+            🌗 Toggle Dark Mode
+            </button>
+        </div>
         </div>
         <h2 class="text-black dark:text-gray-300 -mt-5 mb-6 transition-colors">Global Institute</h2>
         <p class="text-black dark:text-gray-300 -mt-5 transition-colors">
